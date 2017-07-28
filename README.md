@@ -16,3 +16,4 @@ $ sudo docker ps or docker-compose ps
 
 
 To Read More
+http://foxutech.com/prometheus/
